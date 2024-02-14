@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irvingivantx
+- Greetings, I’m @irvingivantx
 - ⚡ Purpose: Learn
 
 <!---
