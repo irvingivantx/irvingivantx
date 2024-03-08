@@ -1,5 +1,6 @@
 - Greetings, I’m @irvingivantx
 - ⚡ Purpose: Learn
+- ⚡ Passion: Learn
 
 <!---
 irvingivantx/irvingivantx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
