@@ -1,6 +1,5 @@
 - Greetings, I’m @irvingivantx
 
-Here to:
 - ⚡ Learn
 - ⚡ Grow
 - ⚡ Serve
