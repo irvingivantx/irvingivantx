@@ -1,4 +1,4 @@
-- Greetings, I’m @irvingivantx
+Greetings, I’m @irvingivantx
 
 - ⚡ Learn
 - ⚡ Grow
